@@ -1,3 +1,18 @@
+/*Static method of device number assignment 
+ * Kernel will assign the number based on the availabilty
+ * int register_chrdev_region (dev_t from,	unsigned count,	const char *name);
+ * 
+ *	from : the first in the desired range of device numbers; must include the major numbe
+ *	count: the number of consecutive device numbers required
+ *	name: the name of the device or driver. This will appear in /proc/devices
+ *	Return Value:zero on success, a negative error code on failure.
+
+
+void unregister_chrdev_region(dev_t from, unsigned int count);
+ *
+ */
+
+
 #include <linux/kernel.h>
 #include <linux/module.h>
 #include <linux/kdev_t.h>
