@@ -1,2 +1,3 @@
-![hi](recent:///97b30958987219f25f70cc3a63d43cba)
+![hi](/home/anamika/Pictures/Screenshots/Screenshot from 2023-01-27 16-05-46.png)
+
 
