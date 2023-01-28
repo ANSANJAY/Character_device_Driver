@@ -1,3 +1,3 @@
-![hi](/home/anamika/Pictures/Screenshots/Screenshot from 2023-01-27 16-05-46.png)
+Expected output 
 
-
+![image](https://user-images.githubusercontent.com/97059168/215288114-e0907f4d-85e8-4ecd-908a-4b352e916755.png)
